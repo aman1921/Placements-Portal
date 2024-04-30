@@ -1,0 +1,46 @@
+.Recovery-container {
+    min-height: calc(100vh - 64px);
+    width: 100%;
+    padding: 15px;
+    background-color: aliceblue;
+}
+
+.Recovery-box {
+    padding: 15px 24px;
+}
+
+.Recovery-box .MuiSvgIcon-root {
+    font-size: 14px;
+    color: rgb(104, 104, 255);
+}
+
+.Recovery-box .MuiSvgIcon-colorError {
+    color: #d32f2f;
+}
+
+.Recovery-box .MuiSvgIcon-colorSuccess {
+    color: rgb(102 187 106)
+}
+
+.Recovery-box .MuiOutlinedInput-input {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: "Nunito", sans-serif;
+}
+
+.MuiButton-root.Recovery-btn {
+    background-color: rgb(104, 104, 255);
+    font-family: "Nunito", sans-serif;
+}
+
+.Recovery-container a {
+    font-family: "Nunito", sans-serif;
+    color: rgb(104, 104, 255);
+}
+
+.Recovery-box .OTP-input .MuiOutlinedInput-input {
+    font-size: 18px;
+    font-weight: 800;
+    font-family: "nunito", sans-serif;
+    letter-spacing: 5px;
+}
