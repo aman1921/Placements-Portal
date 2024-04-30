@@ -1,0 +1,16 @@
+{
+  "name": "iiitl-placement-portal",
+  "version": "1.0.0",
+  "description": "IIITL Placement Portal Production Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rohit Kumar",
+  "license": "ISC",
+  "proxy": "http://localhost:3000",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "md5-file": "^5.0.0"
+  }
+}
