@@ -1,0 +1,24 @@
+# Client
+# /client/*
+# /client/*/
+/client/build/
+/client/node_modules
+
+# Server
+/server/node_modules
+/server/.env
+/server/.git
+/server/.gitignore
+/server/server.js
+/server/LICENSE
+/server/README.md
+# /server/package.json
+# /server/package-lock.json
+
+# Root
+.git
+.gitignore
+README.md
+
+node_modules
+npm-debug.log
